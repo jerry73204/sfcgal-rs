@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["LineString","An ordered collection of two or more `Coordinate`s, representing a path between locations."],["PointsIter",""]]});
